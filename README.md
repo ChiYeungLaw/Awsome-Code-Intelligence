@@ -42,6 +42,7 @@ Code Intelligence is an exciting field focused on automating code completion and
 ## 🔧 Prompt Engineering for Code LLMs
 
 - Demystifying GPT Self-Repair for Code Generation ([paper](https://arxiv.org/abs//2306.09896), 2023)
+- Think Outside the Code: Brainstorming Boosts Large Language Models in Code Generation ([paper](https://arxiv.org/pdf/2305.10679.pdf), 2023)
 - Teaching Large Language Models to Self-Debug ([paper](https://arxiv.org/abs/2304.05128), 2023)
 - CodeT: Code Generation with Generated Tests ([github](https://github.com/microsoft/CodeT), [paper](https://arxiv.org/abs/2207.10397), 2022)
 
