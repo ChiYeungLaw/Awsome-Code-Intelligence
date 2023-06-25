@@ -27,7 +27,6 @@ Code Intelligence is an exciting field focused on automating code completion and
 | LLaMA-33B        | 21.7             |
 | LLaMA-65B        | 23.7             |
 | CodeGen-16B-Mono | 29.3             |
-| Code-Cushman-001 | 33.5             |
 | StarCoder-15B    | 33.6             |
 | InstructCodeT5+  | 35.0             |
 | WizardLM-30B  1.0| 37.8             |
