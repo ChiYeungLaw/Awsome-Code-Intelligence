@@ -6,9 +6,11 @@ Code Intelligence is an exciting field focused on automating code completion and
 
 ## 🎆 Foundation Models for Code
 
+- OctoPack: Instruction Tuning Code Large Language Models ([paper](https://arxiv.org/abs/2308.07124), [github](https://github.com/bigcode-project/octopack), *open-source* ⭕)
+- PanGu-Coder2: Boosting Large Language Models for Code with Ranking Feedback ([paper](https://arxiv.org/abs/2307.14936), *close-source* ❌)
 - CodeGen2.5: Small, but mighty ([github](https://github.com/salesforce/CodeGen/tree/main/codegen25?ref=blog.salesforceairesearch.com), [blog](https://blog.salesforceairesearch.com/codegen25/), *open-source* ⭕)
 - Phi-1: Textbooks Are All You Need ([paper](https://arxiv.org/abs/2306.11644), 2023,  *close-source* ❌)
-- 🔥**WizardCoder**: Empowering Code Large Language Models with Evol-Instruct ([github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder), [paper](https://arxiv.org/abs/2306.08568), 2023, *open-source* ⭕) 
+- 👑**WizardCoder**: Empowering Code Large Language Models with Evol-Instruct ([github](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder), [paper](https://arxiv.org/abs/2306.08568), 2023, *open-source* ⭕) 
 - CodeT5+: Open Code Large Language Models for Code Understanding and Generation ([github](https://github.com/salesforce/CodeT5), [paper](https://arxiv.org/abs/2305.07922), 2023, *open-source* ⭕)
 - **StarCoder**: May the source be with you! ([github](https://github.com/bigcode-project/starcoder), [paper](https://drive.google.com/file/d/1cN-b9GnWtHzQRoE7M7gAEyivY0kl4BYs/view), 2023, *open-source* ⭕)
 - CodeGen2: Lessons for Training LLMs on Programming and Natural Languages ([github](https://github.com/salesforce/CodeGen2), [paper](https://arxiv.org/abs/2305.02309), 2023, *open-source* ⭕)
@@ -37,9 +39,10 @@ Code Intelligence is an exciting field focused on automating code completion and
 | StarCoder-15B    | 33.6             |
 | 🎃 **w/ SFT** 🎃                   |
 | InstructCodeT5+  | 35.0             |
-| CodeGen2.5-7B-instruct | 36.2             |
+| CodeGen2.5-7B-instruct | 36.2       |
+| OctoCoder-15B    | 45.8             |
 | WizardLM-30B  1.0| 37.8             |
-| WizardCoder-15B  1.0 | **57.3**     |
+| 👑 WizardCoder-15B  1.0 | **57.3**     |
 
 If you want to evaluate your models on HumanEval, you can try [code-eval](https://github.com/abacaj/code-eval).
 
